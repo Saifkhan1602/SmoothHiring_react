@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/smoothhiring_react/static/css/main.4e56b7ba.chunk.css",
-    "main.js": "/smoothhiring_react/static/js/main.475d583e.chunk.js",
-    "main.js.map": "/smoothhiring_react/static/js/main.475d583e.chunk.js.map",
-    "runtime-main.js": "/smoothhiring_react/static/js/runtime-main.871b6b18.js",
-    "runtime-main.js.map": "/smoothhiring_react/static/js/runtime-main.871b6b18.js.map",
-    "static/js/2.26b2937d.chunk.js": "/smoothhiring_react/static/js/2.26b2937d.chunk.js",
-    "static/js/2.26b2937d.chunk.js.map": "/smoothhiring_react/static/js/2.26b2937d.chunk.js.map",
-    "index.html": "/smoothhiring_react/index.html",
-    "static/css/main.4e56b7ba.chunk.css.map": "/smoothhiring_react/static/css/main.4e56b7ba.chunk.css.map",
-    "static/js/2.26b2937d.chunk.js.LICENSE.txt": "/smoothhiring_react/static/js/2.26b2937d.chunk.js.LICENSE.txt"
+    "main.css": "/SmoothHiring_react/static/css/main.4e56b7ba.chunk.css",
+    "main.js": "/SmoothHiring_react/static/js/main.475d583e.chunk.js",
+    "main.js.map": "/SmoothHiring_react/static/js/main.475d583e.chunk.js.map",
+    "runtime-main.js": "/SmoothHiring_react/static/js/runtime-main.397d3519.js",
+    "runtime-main.js.map": "/SmoothHiring_react/static/js/runtime-main.397d3519.js.map",
+    "static/js/2.26b2937d.chunk.js": "/SmoothHiring_react/static/js/2.26b2937d.chunk.js",
+    "static/js/2.26b2937d.chunk.js.map": "/SmoothHiring_react/static/js/2.26b2937d.chunk.js.map",
+    "index.html": "/SmoothHiring_react/index.html",
+    "static/css/main.4e56b7ba.chunk.css.map": "/SmoothHiring_react/static/css/main.4e56b7ba.chunk.css.map",
+    "static/js/2.26b2937d.chunk.js.LICENSE.txt": "/SmoothHiring_react/static/js/2.26b2937d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.871b6b18.js",
+    "static/js/runtime-main.397d3519.js",
     "static/js/2.26b2937d.chunk.js",
     "static/css/main.4e56b7ba.chunk.css",
     "static/js/main.475d583e.chunk.js"
